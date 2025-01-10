@@ -10,32 +10,33 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Algemene informatie
+<dl>
+<dt>Wie</dt>
+<dd>Alice Driessen en Max Verbiest</dd>
+<dt>Wanneer</dt>
+<dd>Vrijdag 4 july</dd>
+<dt>Waar</dt>
+<dd>Slot Assemburg (Stayokay) Tolweg 9, 1967 NG Heemskerk, Netherlands</dd>
+<dt>Wat</dt>
+<dd>Party Hardy, Fissa Fissa</dd>
+<dt>Ceremoniemeester</dt>
+<dd>Jantje met zn tandje</dd>
+</dl>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Programma
 
-## Header 2
+| Tijd            | Onderdeel         | Locatie |
+|:----------------|:------------------|:--------|
+| 00:00-00:00     | Ontvangst         | -       |
+| 00:00-00:00     | Ceremonie         | -       |
+| 00:00-00:00     | Receptie          | -       |
+| 00:00-00:00     | Diner             | -       |
+| 00:00-00:00     | Fissa Fissa       | -       |
+| 00:00-00:00     | Slaap lekker!     | -       |
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Overnachting
+Slapen is fijn!
 
 #### Header 4
 
