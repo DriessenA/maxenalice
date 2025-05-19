@@ -5,7 +5,6 @@ layout: default
 Welkom, wat leuk dat je naar onze bruiloft komt!
 Op deze website vind je alle praktische informatie voor onze trouwdag.
 Mocht je na het lezen van deze informatie nog vragen hebben, kan je altijd contact opnemen met ons via `bruiloftmalice@gmail.com`.
-* * *
 
 ## Datum en locatie 
 
