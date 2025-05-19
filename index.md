@@ -36,8 +36,8 @@ Mocht je hier interesse in hebben, neem alsjeblieft contact met ons op via `brui
 *Mocht je daar geen zin in hebben maar wel willen blijven slapen, kan je direct contact op met de Stayokay en (op eigen kosten) zelf een kamer boeken.*
 
 ## Dresscode
+Wij hanteren geen dresscode voor onze bruiloft, dus draag vooral waar je je zelf prettig bij voelt.
 
 ## Cadeaus
-Wij hanteren geen dresscode voor onze bruiloft, dus draag vooral waar je je zelf prettig bij voelt.
 Wij hebben ook geen specifieke wensen voor cadeaus, maar mocht je toch graag iets willen geven zijn we heel blij met een financiele bijdrage aan onze huwelijksreis.
 Op de dag zelf is er de mogelijkheid om een envelop achter te laten. Doe je liever een digitale bijdrage? Maak dan over op NL67ABNA0620188642.
