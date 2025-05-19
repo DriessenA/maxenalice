@@ -5,7 +5,8 @@ layout: default
 Great that you will come to our wedding!
 On this website you will find all information for our wedding day.
 If you still have questions after reading through this information, feel free to send them to: `bruiloftmalice@gmail.com`.
-Do you prefer to read this information in Dutch, visit the [Nederlandse website](index.md)
+
+Wil je deze pagina liever in het Nederlands lezen, bezoek dan de [Nederlandse website](index.md).
 
 ## Date en location 
 
