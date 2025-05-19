@@ -33,7 +33,7 @@ We have reserved 50 beds (incl. breakfast) in the Stayokay.
 If you are interested to stay the night please reach out to us on: `bruiloftmalice@gmail.com`.
 We will come back to you if there are still beds available. 
 
-*NB: since it is a hostel, rooms are shared (2, 4 or 6 ppl per room). *
+*NB: since it is a hostel, rooms are shared (2, 4 or 6 ppl per room).*
 *If you prefer a private room and would like to stay the night, you can contact the Stayokay directly and reserve a private room at your own cost.* 
 
 ## Dresscode
