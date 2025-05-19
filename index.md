@@ -6,6 +6,8 @@ Welkom, wat leuk dat je naar onze bruiloft komt!
 Op deze website vind je alle praktische informatie voor onze trouwdag.
 Mocht je na het lezen van deze informatie nog vragen hebben, kan je altijd contact opnemen met ons via `bruiloftmalice@gmail.com`.
 
+Do you prefer to read this information in English, visit the [English site](index_EN.md).
+
 ## Datum en locatie 
 
 ![Slot Assumburg](images/kasteel_small.jpg)
