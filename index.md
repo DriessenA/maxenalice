@@ -30,7 +30,7 @@ Mocht je in dat geval wel beide onderdelen willen bijwonen, kan je het best bij 
 | 20:30-01:00     | Feest             |
 
 ## Overnachting
-Voor gasten die naar het feest komen en graag in de Stayokay willen overnachten: dat kan
+Voor gasten die naar het feest komen en graag in de Stayokay willen overnachten: dat kan!
 We hebben namelijk 50 bedden (incl. ontbijt) gereserveerd in de Stayokay.
 Mocht je hier interesse in hebben, neem alsjeblieft contact met ons op via `bruiloftmalice@gmail.com`, dan kunnen we je laten weten of er nog plek is!
 
