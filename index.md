@@ -6,7 +6,7 @@ Welkom, wat leuk dat je naar onze bruiloft komt!
 Op deze website vind je alle praktische informatie voor onze trouwdag.
 Mocht je na het lezen van deze informatie nog vragen hebben, kan je altijd contact opnemen met ons via `bruiloftmalice@gmail.com`.
 
-Do you prefer to read this information in English, visit the [English site](index_EN.md).
+If you'd prefer to read this information in English, please visit the [English site](index_EN.md).
 
 ## Datum en locatie 
 
@@ -19,7 +19,7 @@ Zie de website van de Stayokay voor aanreis opties.
 ## Programma
 Hier onder vind je het volledige programma van onze bruiloft.
 Aangezien er een beperkte capaciteit is voor het diner, kan het zo zijn dat je uitgenodigd bent voor de receptie en het feest, maar niet voor het diner.
-Mocht je in dat geval wel bijde onderdelen willen bijwonen, kan je het best bij [een van de restaurants](https://www.google.com/maps/search/Restaurants/@52.5087696,4.6730517,15z/data=!4m7!2m6!3m5!2sStayokay+Hostel+Heemskerk+(Slot+Assumburg)!3s0x47c5fa0b7735a4f3:0x247bb53488a5bbe2!4m2!1d4.6850683!2d52.5052176?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D) in de buurt van de Stayokay een hapje gaan eten.
+Mocht je in dat geval wel beide onderdelen willen bijwonen, kan je het best bij [een van de restaurants](https://www.google.com/maps/search/Restaurants/@52.5087696,4.6730517,15z/data=!4m7!2m6!3m5!2sStayokay+Hostel+Heemskerk+(Slot+Assumburg)!3s0x47c5fa0b7735a4f3:0x247bb53488a5bbe2!4m2!1d4.6850683!2d52.5052176?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D) in de buurt van de Stayokay een hapje gaan eten.
 
 | Tijd            | Onderdeel         |
 |:----------------|:------------------|
