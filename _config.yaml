@@ -2,3 +2,5 @@ title: Bruiloft Alice en Max ❤️
 description: Alle informatie voor onze trouwdag op 4 juli 2025 
 show_downloads: false
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-multiple-languages-plugin

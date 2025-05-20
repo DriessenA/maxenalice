@@ -6,6 +6,8 @@ Welkom, wat leuk dat je naar onze bruiloft komt!
 Op deze website vind je alle praktische informatie voor onze trouwdag.
 Mocht je na het lezen van deze informatie nog vragen hebben, kan je altijd contact opnemen met ons via `bruiloftmalice@gmail.com`.
 
+Do you prefer to read this information in English, visit the [English site](index_EN.md).
+
 ## Datum en locatie 
 
 ![Slot Assumburg](images/kasteel_small.jpg)
@@ -26,13 +28,16 @@ Hier onder vind je het volledige programma van onze bruiloft.
 | 20:30-01:00     | Feest             |
 
 ## Overnachting
-Voor gasten die naar het feest komen en graag in de Stayokay willen overnachten: dat kan!
-We hebben namelijk 50 bedden gereserveerd in de Stayokay.
+Voor gasten die naar het feest komen en graag in de Stayokay willen overnachten: dat kan
+We hebben namelijk 50 bedden (incl. ontbijt) gereserveerd in de Stayokay.
 Mocht je hier interesse in hebben, neem alsjeblieft contact met ons op via `bruiloftmalice@gmail.com`, dan kunnen we je laten weten of er nog plek is!
 
 *NB: aangezien de Stayokay een hostel is, betekent dit dat er meerdere gasten per kamer zullen slapen.*
 *Mocht je daar geen zin in hebben maar wel willen blijven slapen, kan je direct contact op met de Stayokay en (op eigen kosten) zelf een kamer boeken.*
 
-## Dresscode, cadeaus, etc.
+## Dresscode
 Wij hanteren geen dresscode voor onze bruiloft, dus draag vooral waar je je zelf prettig bij voelt.
-Wij hebben ook geen specifieke wensen voor cadeaus, maar mocht je toch graag iets willen geven zijn we heel blij met een financiele bijdrage aan onze huwelijksreis (betaalmethode volgt nog).
+
+## Cadeaus
+Wij hebben ook geen specifieke wensen voor cadeaus, maar mocht je toch graag iets willen geven zijn we heel blij met een financiele bijdrage aan onze huwelijksreis.
+Op de dag zelf is er de mogelijkheid om een envelop achter te laten. Doe je liever een digitale bijdrage? Maak dan over op NL67ABNA0620188642.
