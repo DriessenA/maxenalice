@@ -18,6 +18,8 @@ Details on how to reach the venue can be found on the website of the location.
 
 ## Schedule
 This is the program of the wedding day. Please be aware that due to location capacity we were not able to invite all guests for all program items.
+Since there is only limited capacity for the dinner, it's possible that you've received an invitation to both the reception and the party, but not to the dinner.
+In that case - if you'd like to attend both events - you could go for dinner in [one of the nearby restaurants](https://www.google.com/maps/search/Restaurants/@52.5087696,4.6730517,15z/data=!4m7!2m6!3m5!2sStayokay+Hostel+Heemskerk+(Slot+Assumburg)!3s0x47c5fa0b7735a4f3:0x247bb53488a5bbe2!4m2!1d4.6850683!2d52.5052176?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D).
 
 | Tijd            | Onderdeel         |
 |:----------------|:------------------|
