@@ -28,6 +28,9 @@ In that case - if you'd like to attend both events - you could go for dinner in 
 | 16:00-18:00     | Reception         |
 | 18:30-20:30     | Dinner            |
 | 20:30-01:00     | PARTY!            |
+| Sat 08:00-10:00 | Breakfast         |
+
+We plan to have breakfast around 8:45 in case you are interested in sharing our first morning as a married couple.
 
 ## Sleeping arrangements
 For the guest who are joining the party it is possible to spend the night in the hostel! 
@@ -36,6 +39,7 @@ If you are interested to stay the night please reach out to us on: `bruiloftmali
 We will come back to you if there are still beds available. 
 
 *NB: since it is a hostel, rooms are shared (2, 4 or 6 ppl per room).*
+*Breakfast and bedsheets are included but towels are not, you can bring your own or rent one directly at the Stayokay.*
 *If you prefer a private room and would like to stay the night, you can contact the Stayokay directly and reserve a private room at your own cost.* 
 
 ## Dresscode
