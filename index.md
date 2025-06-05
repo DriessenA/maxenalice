@@ -33,16 +33,17 @@ Wij verwachten rond 8:45 te gaan ontbijten, mocht je onze eerste ochtend als ges
 
 ## Overnachting
 Voor gasten die naar het feest komen en graag in de Stayokay willen overnachten: dat kan!
-We hebben namelijk 50 bedden (incl. ontbijt) gereserveerd in de Stayokay.
+We hebben namelijk 50 bedden (incl. ontbijt) gereserveerd in de Stayokay waar je gratis kan overnachten.
 Mocht je hier interesse in hebben, neem alsjeblieft contact met ons op via `bruiloftmalice@gmail.com`, dan kunnen we je laten weten of er nog plek is!
 
 *NB: aangezien de Stayokay een hostel is, betekent dit dat er meerdere gasten per kamer zullen slapen (2, 4, of 6 pers. per kamer).*
 *Ontbijt en lakens zijn inbegrepen, maar handdoeken niet. Deze kun je zelf meenemen of ter plekke bij de Stayokay huren.*
-*Mocht je daar geen zin in hebben maar wel willen blijven slapen, kan je direct contact op met de Stayokay en (op eigen kosten) zelf een kamer boeken.*
+*Mocht je daar geen zin hebben om kamers te delen, maar wel willen blijven slapen. Dan kan je direct contact op met de Stayokay en (op eigen kosten) zelf een kamer boeken.*
 
 ## Dresscode
 Wij hanteren geen dresscode voor onze bruiloft, dus draag vooral waar je je zelf prettig bij voelt.
 
 ## Cadeaus
-Wij hebben ook geen specifieke wensen voor cadeaus, maar mocht je toch graag iets willen geven zijn we heel blij met een financiele bijdrage aan onze huwelijksreis.
-Op de dag zelf is er de mogelijkheid om een envelop achter te laten. Doe je liever een digitale bijdrage? Maak dan over op NL67ABNA0620188642.
+Wij zijn heel blij met een financiele bijdrage aan onze huwelijksreis. Op de dag zelf is er de mogelijkheid om een envelop achter te laten. Doe je liever een digitale bijdrage? Maak dan over op NL67ABNA0620188642.
+
+Geef je het liefst een fysiek cadeau? Neem dan een kijkje op ons beperkte [verlanglijstje](https://www.lijstje.nl/maxenalice) en streep af wat je geeft (wij zijn niet wat mensen afstrepen).
