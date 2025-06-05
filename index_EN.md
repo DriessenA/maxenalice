@@ -34,7 +34,7 @@ We plan to have breakfast around 8:45 in case you are interested in sharing our 
 
 ## Sleeping arrangements
 For the guest who are joining the party it is possible to spend the night in the hostel! 
-We have reserved 50 beds (incl. breakfast) in the Stayokay. 
+We have reserved 50 beds (incl. breakfast) in the Stayokay, where you can spend the night for free.
 If you are interested to stay the night please reach out to us on: `bruiloftmalice@gmail.com`.
 We will come back to you if there are still beds available. 
 
@@ -46,5 +46,7 @@ We will come back to you if there are still beds available.
 There is no strict dresscode for our wedding, so feel free to wear what feels good for you!
 
 ## Gifts
-We do not have specific wishes for gifts. We are always happy with a contribution towards our honeymoon. 
+We are very happy with a financial contribution towards our honeymoon. 
 It will be possible to deposit envelopes on the day or if you prefer to make a digital donation you can transfer money to NL67ABNA0620188642.
+
+Would you rather give a physical gift? Have a look at our short [wish list](https://www.lijstje.nl/maxenalice) (in Dutch) and cross off what you want to give (we don't see what is crossed off).
